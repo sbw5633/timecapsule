@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "763729155395",
+    "project_id": "our-timecapsule",
+    "storage_bucket": "our-timecapsule.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763729155395:android:0bbe515165eca310d24bf6",
+        "android_client_info": {
+          "package_name": "com.example.timecapsule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763729155395-4tvubrg8ek36o5d7mjv1a5d9r5iso2tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJMdAqGI6zG41pc_q0IEa3t5hkaKOK-Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763729155395-4tvubrg8ek36o5d7mjv1a5d9r5iso2tq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "763729155395-dhpnmb013l2sa1qju7evnba2megk1g4c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.timecapsule"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
