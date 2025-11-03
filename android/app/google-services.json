@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:763729155395:android:0bbe515165eca310d24bf6",
+        "mobilesdk_app_id": "1:763729155395:android:393b6abc3668d669d24bf6",
         "android_client_info": {
-          "package_name": "com.example.timecapsule"
+          "package_name": "w.app.timecapsule"
         }
       },
       "oauth_client": [

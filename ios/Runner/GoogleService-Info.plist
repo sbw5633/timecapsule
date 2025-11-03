@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>763729155395-dhpnmb013l2sa1qju7evnba2megk1g4c.apps.googleusercontent.com</string>
+	<string>763729155395-e01ksopb3knn44rrcjmg68vf2b63m6jr.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.763729155395-dhpnmb013l2sa1qju7evnba2megk1g4c</string>
+	<string>com.googleusercontent.apps.763729155395-e01ksopb3knn44rrcjmg68vf2b63m6jr</string>
 	<key>API_KEY</key>
 	<string>AIzaSyDFOqhcf1KJlO5Xun03_ma5Ahe2LnMtaWc</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.timecapsule</string>
+	<string>w.app.timecapsule</string>
 	<key>PROJECT_ID</key>
 	<string>our-timecapsule</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:763729155395:ios:4261b7a23f18727fd24bf6</string>
+	<string>1:763729155395:ios:ee8564a5f8ca6f21d24bf6</string>
 </dict>
 </plist>
