@@ -1,4 +1,4 @@
-package com.example.timecapsule
+package w.app.timecapsule
 
 import io.flutter.embedding.android.FlutterActivity
 
