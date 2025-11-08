@@ -20,6 +20,9 @@ dependencies {
   
   // Firestore 추가
   implementation("com.google.firebase:firebase-firestore")
+  
+  // MultiDex 지원
+  implementation("androidx.multidex:multidex:2.0.1")
 }
 
 android {
@@ -45,13 +48,20 @@ android {
         targetSdk = 36  // 35에서 36으로 변경
         versionCode = 1
         versionName = "1.0"
+        multiDexEnabled = true
     }
 
     buildTypes {
+        debug {
+            minifyEnabled = false
+            shrinkResources = false
+        }
         release {
             // TODO: Add your own signing config for the release build.
             // Signing with the debug keys for now, so `flutter run --release` works.
             signingConfig = signingConfigs.getByName("debug")
+            minifyEnabled = false
+            shrinkResources = false
         }
     }
 }
